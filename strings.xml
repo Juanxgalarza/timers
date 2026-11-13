@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pixel Timers</string>
+    <string name="title_app">PIXEL TIMERS</string>
+
+    <string name="channel_name">Recordatorios</string>
+    <string name="channel_description">Avisos silenciosos de tus timers</string>
+    <string name="notification_text">Próximo aviso en %1$s</string>
+
+    <string name="empty_state">AÚN NO HAY TIMERS</string>
+    <string name="add_timer">+ NUEVO TIMER</string>
+    <string name="every_format">%1$s · %2$s</string>
+
+    <string name="mode_notify">Aviso</string>
+    <string name="mode_vibrate">Vibra</string>
+    <string name="mode_both">Ambos</string>
+
+    <string name="toggle_on">ON</string>
+    <string name="toggle_off">OFF</string>
+    <string name="toggle_description">Activar o desactivar timer</string>
+    <string name="delete_label">X</string>
+    <string name="delete_description">Borrar timer</string>
+
+    <string name="editor_new">NUEVO TIMER</string>
+    <string name="editor_edit">EDITAR TIMER</string>
+    <string name="field_label_hint">Nombre (ej: Estirar)</string>
+    <string name="field_pattern_hint">Patrón en min: 45, 5, 45, 10</string>
+    <string name="pattern_help">Cada número es la espera hasta el siguiente aviso. El patrón se repite en ciclo.</string>
+    <string name="save">GUARDAR</string>
+    <string name="cancel">CANCELAR</string>
+
+    <string name="error_empty_label">Ponle un nombre</string>
+    <string name="error_invalid_pattern">Usa solo números separados por comas</string>
+    <string name="error_empty_pattern">Escribe al menos un intervalo</string>
+    <string name="error_pattern_too_long">Máximo %1$d pasos</string>
+    <string name="error_label_too_long">Máximo %1$d letras</string>
+    <string name="error_interval">Entre %1$d y %2$d minutos</string>
+
+    <string name="exact_banner">Activa las alarmas exactas para que los avisos no se retrasen. Toca aquí.</string>
+</resources>
